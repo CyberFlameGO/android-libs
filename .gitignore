@@ -12,3 +12,5 @@ gen
 
 local.properties
 proguard-project.txt
+
+.settings/
